@@ -8,7 +8,7 @@
 First of all, here is the pinout for the ESP8266 and the pinout for the Flipper Zero:
 
 ![ESP8266 PINOUT](https://github.com/Dankof04/esp8266/blob/main/ESP8266-Pinout-NodeMCU.png)
-![FLIPPER ZERO PINOUT]()
+![FLIPPER ZERO PINOUT](https://github.com/Dankof04/esp8266/blob/main/FlipperZero_Pinout.png)
 
 We will use only four pins:
 
