@@ -5,7 +5,7 @@ In order to use an ESP8266 attached to the Flipper Zero, we have to flash our ES
 
 Flash your ESP8266 with the Wifi Scanner by following this steps:
 
-1º. Connect your
+  **1º**   Connect your
 
 # WIRING
 
