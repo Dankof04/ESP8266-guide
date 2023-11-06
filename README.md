@@ -1,5 +1,5 @@
 # ESP8266 - How to wire, flash and use an ESP8266 with the Flipper Zero
-
+In order to use an ESP8266 attached to the Flipper Zero, we have to flash our ESP8266 with the program we want to execute. In my case, and the first version of this guide, we are flashing the [Wifi Scanner](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module).
 
 # FLASHING
 
