@@ -5,7 +5,9 @@ In order to use an ESP8266 attached to the Flipper Zero, we have to flash our ES
 
 Flash your ESP8266 with the Wifi Scanner by following this steps:
 
-  **1º**   Connect your
+  **1º**   Connect your ESP8266 to your computer using a Micro USB cable (in my case)
+  **2º**   Put your ESP8266 into flashing mode (Hold the FLASH/BOOT button, then press the RESET button once and release the FLASH/BOOT BUTTON)
+  **3º**   Go to the [Online Flasher](https://sequoiasan.github.io/FlipperZero-WiFi-Scanner_Module)
 
 # WIRING
 
