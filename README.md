@@ -38,3 +38,11 @@ The wirings between the ESP8266 and the Flipper Zero are:
 - **RX** (ESP8266) -----------------------------> **TX** (Pin 15 - Flipper Zero)
 
 With this wiring you should be able to use the ESP8266 with your Flipper Zero
+
+# SOLDERING
+I've soldered my board using the [Official Prototyping Boards](https://shop.flipperzero.one/collections/flipper-zero-accessories/products/proto-boards).
+
+There you have some photos of my prototype:
+
+# HOW TO USE WIFI SCANNER
+
