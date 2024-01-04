@@ -37,7 +37,7 @@ The wirings between the ESP8266 and the Flipper Zero are:
 
 - **RX** (ESP8266) -----------------------------> **TX** (Pin 13 - Flipper Zero)
 
-- **PC0** (Pin 16 - Flipper Zero) ----------------> **GND** (Pin 18 - Flipper Zero)
+- **PC0** (Pin 16 - Flipper Zero) ---------------> **GND** (Pin 18 - Flipper Zero)
 
 With this wiring you should be able to use the ESP8266 with your Flipper Zero
 
