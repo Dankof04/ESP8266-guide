@@ -75,6 +75,6 @@ Now we'll try our creation (Note: you need the WifiScanner.fap on your Flipper):
 ![Monitoring](https://github.com/Dankof04/ESP8266-guide-not-finished-/blob/main/Step_5.png)
 
 
-# If you have any questions, feel free to contact me via [Discord](https://discord.com/users/dankof.exe)https://discord.com/users/dankof.exe)
+# If you have any questions, feel free to contact me via [Discord](https://discord.com/users/dankof.exe)
 
 
