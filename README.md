@@ -44,5 +44,8 @@ I've soldered my board using the [Official Prototyping Boards](https://shop.flip
 
 There you have some photos of my prototype:
 
+![PROTOTYPE FRONT](https://github.com/Dankof04/ESP8266-guide-not-finished-/blob/main/ESP8266_Front.jpeg)
+![PROTOTYPE BACK](https://github.com/Dankof04/ESP8266-guide-not-finished-/blob/main/ESP8266_Back.jpeg)
+
 # HOW TO USE WIFI SCANNER
 
