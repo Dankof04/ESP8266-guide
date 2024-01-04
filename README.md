@@ -9,7 +9,7 @@ Flash your ESP8266 with the Wifi Scanner by following this steps:
   
   **2º**   Put your ESP8266 into flashing mode (Hold the FLASH/BOOT button, then press the RESET button once and release the FLASH/BOOT BUTTON)
   
-  **3º**   Go to the [Online Flasher](https://sequoiasan.github.io/FlipperZero-WiFi-Scanner_Module), select ESP8266 and flash your board with the Wifi Scanner (Make sure you don't have other site or program trying to use the serial port which your ESP8266 is using)
+  **3º**   Go to the [Online Flasher](https://sequoiasan.github.io/FlipperZero-WiFi-Scanner_Module), select ESP8266 and flash your board with the Wifi Scanner (Make sure you don't have other site or program trying to use the serial port that your ESP8266 is using)
 
   **4º** Let's do the wiring!!!!
 
@@ -48,4 +48,5 @@ There you have some photos of my prototype:
 ![PROTOTYPE BACK](https://github.com/Dankof04/ESP8266-guide-not-finished-/blob/main/ESP8266_Back.jpeg)
 
 # HOW TO USE WIFI SCANNER
+We've soldered our prototype and flashed it with the Wifi Scanner. Now we will try our creation (Note: you need the WifiScanner.fap on your Flipper):
 
