@@ -31,11 +31,11 @@ The wirings between the ESP8266 and the Flipper Zero are:
 
 - **VIN** (ESP8266) ----------------------------> **5V** (Pin 1 - Flipper Zero)
 
-- **GND** (ESP8266) ---------------------------> **GND** (Pins 8, 12, or 18 - Flipper Zero)
+- **GND** (ESP8266) ---------------------------> **GND** (Pin 8 - Flipper Zero)
 
-- **TX** (ESP8266) -----------------------------> **RX** (Pin 16 - Flipper Zero)
+- **TX** (ESP8266) -----------------------------> **RX** (Pin 14 - Flipper Zero)
 
-- **RX** (ESP8266) -----------------------------> **TX** (Pin 15 - Flipper Zero)
+- **RX** (ESP8266) -----------------------------> **TX** (Pin 13 - Flipper Zero)
 
 - **PC0** (Pin 16 - Flipper Zero) ----------------> **GND** (Pin 18 - Flipper Zero)
 
