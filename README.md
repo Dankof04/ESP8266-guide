@@ -48,5 +48,7 @@ There you have some photos of my prototype:
 ![PROTOTYPE BACK](https://github.com/Dankof04/ESP8266-guide-not-finished-/blob/main/ESP8266_Back.jpeg)
 
 # HOW TO USE WIFI SCANNER
-We've soldered our prototype and flashed it with the Wifi Scanner. Now we will try our creation (Note: you need the WifiScanner.fap on your Flipper):
+We've soldered our prototype and flashed it with the Wifi Scanner.
+
+Now we'll try our creation (Note: you need the WifiScanner.fap on your Flipper):
 
