@@ -52,3 +52,5 @@ We've soldered our prototype and flashed it with the Wifi Scanner.
 
 Now we'll try our creation (Note: you need the WifiScanner.fap on your Flipper):
 
+
+
