@@ -56,6 +56,24 @@ Now we'll try our creation (Note: you need the WifiScanner.fap on your Flipper):
 
 **1º** Search the Wifi Scanner app on your Flipper:
 
+![Search the application](https://github.com/Dankof04/ESP8266-guide-not-finished-/blob/main/Step_1.png)
+
+**2º** If the flashing was succesful, your Flipper will start searching for wifi networks:
+
+![Flipper searching networks](https://github.com/Dankof04/ESP8266-guide-not-finished-/blob/main/Step_2.png)
+
+**3º** When finished you'll see a screen like this one, where you can navigate through the wifi networks by pressing UP and DOWN buttons or LEFT and RIGHT as well:
+
+![Network list](https://github.com/Dankof04/ESP8266-guide-not-finished-/blob/main/Step_3.png)
+
+**4º** Press the OK button to start Monitor Mode, you'll see this screen:
+
+![Monitor starting](https://github.com/Dankof04/ESP8266-guide-not-finished-/blob/main/Step_4.png)
+
+**5º** Start monitoring the WiFi network:
+
+![Monitoring](https://github.com/Dankof04/ESP8266-guide-not-finished-/blob/main/Step_5.png)
+
 
 
 
